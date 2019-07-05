@@ -45,6 +45,7 @@ Small library for parsing and writing JSON documents.
 
 
 %prep
+ls -l
 %autosetup -p1 -n %{pkgname}-%{version}
 
 
