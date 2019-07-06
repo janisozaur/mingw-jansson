@@ -9,7 +9,7 @@ Summary:        C library for encoding, decoding and manipulating JSON data
 Group:          Development/Libraries
 License:        MIT 
 URL:            http://www.digip.org/jansson/
-Source0:        http://www.digip.org/jansson/releases/jansson-%{version}.tar.bz2
+Source0:        https://github.com/akheron/jansson/archive/v%{version}.tar.gz
 
 BuildArch:      noarch
 
